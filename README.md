@@ -18,7 +18,9 @@ For now, these are my EAGLE design files. You may fork this repository and custo
 
 ## Useful Links
 RGB LED Push Encoder: https://www.sparkfun.com/products/15141
+
 ATMEGA328P-MU QFN32: https://statics3.seeedstudio.com/images/opl/datasheet/310010005.pdf
+
 What is a Pi HAT?: https://www.raspberrypi.org/blog/introducing-raspberry-pi-hats/
 
 ## Enjoy!

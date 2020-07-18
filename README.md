@@ -1,5 +1,7 @@
 # SparkFun RGB LED Push Encoder pHAT for Raspberry Pi (encoderphat)
 
+![Image of Encoder pHAT](https://github.com/TheMindVirus/encoderhat/blob/master/Board.png)
+
 ## What is it?
 It's an add-on board for the Raspberry Pi single board computer.
 

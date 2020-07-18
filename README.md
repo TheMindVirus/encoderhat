@@ -28,4 +28,4 @@ ATMEGA328P-MU QFN32: https://statics3.seeedstudio.com/images/opl/datasheet/31001
 What is a Pi HAT?: https://www.raspberrypi.org/blog/introducing-raspberry-pi-hats/
 
 ## Enjoy!
-- Alastair Cota 18/07/2020
+Alastair Cota 18/07/2020
